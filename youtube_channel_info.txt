@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 中天新闻 |台湾||
-https://www.youtube.com/watch?v=_QbRXRnHMVY
+https://www.youtube.com/watch?v=oIgbl7t0S_w
 
 台视新闻台 |台湾||
 https://www.youtube.com/watch?v=xL0ch83RAK8
