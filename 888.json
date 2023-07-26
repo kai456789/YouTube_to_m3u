@@ -52,7 +52,7 @@
         "key": "nivod", 
         "name": "泥巴(翻墙)", 
         "type": 3, 
-        "api": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/nivod_op.js",
+        "api": "file://Download/nivod_op.js",
         "ext":"888解忧愁" 
         },
 {
