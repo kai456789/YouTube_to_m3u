@@ -48,13 +48,17 @@
       "searchable": 1,
       "changeable": 1
     },
-    { 
-        "key": "nivod", 
-        "name": "泥巴(翻墙)", 
-        "type": 3, 
-        "api": "file://Download/nivod_op.js",
-        "ext":"888解忧愁" 
-        },
+      {
+  "key": "贱贱",
+  "name": "贱贱",
+  "type": 4,
+  "api": "https://test.dovx.tk/csp/jianpian",
+  "playerType": 1,
+  "searchable": 1,
+  "filterable": 1,
+  "quickSearch": 0,
+  "changeable": 0
+       },
 {
             "key": "888解忧愁",
             "name": "888解忧愁",
