@@ -34,10 +34,10 @@
       "referer": "https://github.com/"
     },
     {
-      "name": "Custom",
-      "boot": false,
-      "pass": true,
-      "url": "https://github.com/live.txt",
+      "name": "YT NEWS",
+      "boot": true,
+      "pass": flase,
+      "url": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "header": {
