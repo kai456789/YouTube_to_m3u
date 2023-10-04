@@ -2,11 +2,11 @@
   "lives": [
     {
       "name": "M3U",
-      "url": "https://github.com/live.m3u"
+      "url": "http://kaicc456789.giize.com:35455/yylunbo.m3u "
     },
     {
       "name": "TXT",
-      "url": "https://github.com/live.txt",
+      "url": "https://tv543.neocities.org/5433.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -48,7 +48,7 @@
     {
       "name": "JSON",
       "type": 1,
-      "url": "https://github.com/live.json"
+      "url": "https://888.iptv543.com/543.json "
     },
     {
       "name": "Proxy",
