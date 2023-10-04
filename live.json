@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "YTNEWS",
+      "name": "TXT",
       "type": 0,
       "url": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/live.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
