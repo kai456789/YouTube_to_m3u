@@ -6,12 +6,9 @@
     },
     {
       "name": "TXT",
-      "boot": true,
-      "url": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/live.txt",
+      "url": "https://github.com/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
-      "playerType": 2
-      
     },
     {
       "name": "IJK",
@@ -38,9 +35,9 @@
     },
     {
       "name": "Custom",
-      "boot": false,
+      "boot": true,
       "pass": true,
-      "url": "https://github.com/live.txt",
+      "url": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "header": {
