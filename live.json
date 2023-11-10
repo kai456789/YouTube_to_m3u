@@ -19,7 +19,7 @@
     },
     {
       "name": "EXO",
-      "url": "https://github.com/live.txt",
+      "url": "https://livednow.com/yeslive.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
