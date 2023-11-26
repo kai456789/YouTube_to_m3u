@@ -1,7 +1,7 @@
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
-寰宇新闻,https://www.youtube.com/watch?v=yAPM0HwXKMg
+寰宇新闻,https://www.youtube.com/watch?v=Hj3_tmaYIec
 三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
 民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
 鏡新闻,https://www.youtube.com/live/5n0y6b0Q25o
