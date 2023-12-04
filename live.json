@@ -20,7 +20,7 @@
     {
       "name": "EXO",
       "boot": true,
-      "url": "https://livednow.com/hmt.m3u",
+      "url": "https://livednow.com/hmt.m3u?user_id=777618639&user_token=dbd6ae060add5ec218012d7fba586533",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
