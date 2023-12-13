@@ -1,3 +1,4 @@
+新聞YT,#genre#
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -5,3 +6,26 @@
 三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
 民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
 鏡新闻,https://www.youtube.com/live/5n0y6b0Q25o
+
+新聞嗅探,#genre#
+parse=1
+東森新聞,https://www.histar.tv/live/ebc-news
+TVBS新聞,https://www.histar.tv/live/tvbs-news
+中天新聞,https://www.histar.tv/live/cti-news
+中視新聞,https://www.histar.tv/live/ctv-news
+寰宇新聞,https://www.histar.tv/live/global-news
+台視新聞,https://www.histar.tv/live/ttv-news
+非凡新聞,https://www.histar.tv/live/ustv-news
+華視新聞,https://www.histar.tv/live/cts-news
+壹新聞,https://www.histar.tv/live/nexttv
+鏡新聞,https://www.histar.tv/live/mnews
+
+其他嗅探,#genre#
+parse=1
+緯來日本,https://www.histar.tv/live/videoland-japan
+東森綜合台,https://www.histar.tv/live/ebc-ettv
+星衛娛樂台,https://www.histar.tv/live/star-entetainment
+東森幼幼,https://www.histar.tv/live/ebc-yoyo
+TVBS歡樂台,https://www.histar.tv/live/tvbs-huanle
+MTV LIVE,https://www.histar.tv/live/mtv
+動物星球,https://www.histar.tv/live/animal-planet
