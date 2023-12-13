@@ -6,7 +6,7 @@
     },
     {
       "name": "TXT",
-      "url": "https://tv543.neocities.org/5433.txt",
+      "url": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/parse.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
