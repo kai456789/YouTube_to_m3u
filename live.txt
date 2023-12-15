@@ -10,7 +10,6 @@
 TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
 華視新聞,video://https://www.histar.tv/live/cts-news
 壹新聞,video://https://www.histar.tv/live/nexttv
-鏡新聞,video://https://www.histar.tv/live/mnews
 
 新聞嗅探,#genre#
 parse=1
