@@ -1,0 +1,16 @@
+{
+  "drives": [
+    {
+      "name": "七米藍",
+      "server": "https://al.chirmyram.com/dav",
+      "user": "alist",
+      "pass": "alist"
+    },
+    {
+      "name": "影視庫",
+      "server": "https://miya.teracloud.jp/dav/",
+      "user": "kai456789",
+      "pass": "X5dEZi23T36ACnWE"
+    }
+  ]
+}
