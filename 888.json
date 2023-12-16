@@ -26,7 +26,7 @@
       "api": "csp_WebDAV",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/webdav.json"
+      "ext": ""
     },
     {
       "key": "哔哩",
