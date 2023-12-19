@@ -20,7 +20,6 @@ TVBS新聞,https://today.line.me/tw/v2/article/jggMBa
 中視新聞,https://www.histar.tv/live/ctv-news
 寰宇新聞,https://www.histar.tv/live/global-news
 台視新聞,https://www.histar.tv/live/ttv-news
-非凡新聞,https://www.histar.tv/live/ustv-news
 華視新聞,https://www.histar.tv/live/cts-news
 壹新聞,https://www.histar.tv/live/nexttv
 鏡新聞,https://www.histar.tv/live/mnews
