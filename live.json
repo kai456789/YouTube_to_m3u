@@ -20,7 +20,7 @@
     {
       "name": "EXO",
       "boot": true,
-      "url": "https://www.stream-link.org/stream-link.m3u",
+      "url": "https://assets.livednow.com/m3u/mytvsuper.m3u",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
