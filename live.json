@@ -6,7 +6,7 @@
     },
     {
       "name": "TXT",
-      "url": "https://live.hkdvb.com/hls/playlist.m3u?token=404253750412934",
+      "url": "https://raw.gitcode.com/tytv/ty2024/raw/main/%E7%B3%96%E6%84%8F",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
