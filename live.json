@@ -1,60 +1,45 @@
 {
   "lives": [
     {
-      "name": "M3U",
-      "url": "http://kaicc456789.giize.com:35455/yylunbo.m3u "
+      "name": "YY",
+      "url": "http://kaicc456789.giize.com:35455/yylunbo.m3u ",
+      "playerType": 2
+    },
+     {
+      "name": "4gtv-lan",
+      "url": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/4gtv%20-%201.m3u ",
+      "playerType": 2
     },
     {
-      "name": "TXT",
+      "name": "sweet",
       "url": "https://raw.gitcode.com/tytv/ty2024/raw/main/%E7%B3%96%E6%84%8F",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IJK",
-      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82023.m3u",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "playerType": 1
-    },
-    {
-      "name": "EXO",
-      "boot": true,
-      "url": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/ub.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
     },
     {
-      "name": "PRO",
+      "name": "Tvlist-awesome",
+      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82023.m3u",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 2
+    },
+    {
+      "name": "523",
       "boot": false,
       "url": "https://888.iptv543.com/54321.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-      "referer": "https://github.com/"
+      "playerType": 2
     },
     {
       "name": "Custom",
-      "boot": true,
+      "boot": false,
       "pass": true,
       "url": "https://raw.githubusercontent.com/kai456789/YouTube_to_m3u/main/live.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "header": {
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-        "referer": "https://github.com/"
-      }
-    },
-    {
-      "name": "JSON",
-      "type": 1,
-      "url": "https://raw.githubusercontent.com/wwb521/live/main/tv.txt"
-    },
-    {
-      "name": "Proxy",
-      "type": 2,
-      "url": "proxy://do=live&type=today"
+      "playerType": 2
     }
   ]
 }
