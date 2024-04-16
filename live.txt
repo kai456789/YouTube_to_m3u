@@ -1,4 +1,6 @@
 新聞YT,#genre#
+東森新聞,https://www.youtube.com/live/2dfAzcDf8Zg?si=FgBaNsDfMqKjAhLm
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -6,10 +8,7 @@
 三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
 民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
 鏡新闻,https://www.youtube.com/live/5n0y6b0Q25o
-東森新聞,video://https://today.line.me/tw/v2/article/grrvVZ
-TVBS新聞,video://https://today.line.me/tw/v2/article/jggMBa
-華視新聞,video://https://www.histar.tv/live/cts-news
-壹新聞,video://https://www.histar.tv/live/nexttv
+
 
 新聞嗅探,#genre#
 parse=1
