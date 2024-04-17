@@ -1,17 +1,73 @@
 新聞YT,#genre#
 東森新聞,https://www.youtube.com/live/2dfAzcDf8Zg?si=FgBaNsDfMqKjAhLm
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
-中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
-中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
 寰宇新闻,https://www.youtube.com/watch?v=w87VGpgd90U
 三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
-民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
 鏡新闻,https://www.youtube.com/live/5n0y6b0Q25o
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://220.134.196.147:8517/http/116.50.42.18:8081/hls/67/809/ch27.m3u8 
+中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
+中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
 
 🇹🇼湾湾综合,#genre#
+
+台視新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
+台視新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台視新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
+中視新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
+中天新闻,http://47.76.82.26:29500/live.m3u8?c=3
+中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
+公視,http://livetv.skycf.eu.org/live.m3u8?c=8
+东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
+镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
+民視新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
+三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
+华視新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
+TVBS新闻,rtmp://f13h.mine.nu/sat/tv551
+(ytb)TVBSHD,http://mtw.so/6wgNqO
+(ytb)TVBS新闻,http://mtw.so/5FDjU6
+(ytb)中天新闻,http://mtw.so/6wgIqO
+(ytb)东森新闻,http://mtw.so/62RXu2
+(ytb)民視新聞,http://mtw.so/62RXjo
+(ytb)TVBS新聞,http://mtw.so/6wgNyI
+(ytb)寰宇新闻,http://mtw.so/6wgNyS
+(ytb)寰宇新聞台灣台,http://mtw.so/5FDk2a
+(ytb)台視新聞,http://mtw.so/5NPXtM
+(ytb)台視新聞,http://mtw.so/5VmagT
+(ytb)中視新聞,http://mtw.so/5GnWwZ
+(ytb)公視新聞,http://mtw.so/6oKAvD
+(ytb)鏡新聞mnews,http://mtw.so/69Iao1
+(ytb)TaiwanPlus,http://mtw.so/6hensS
+(ytb)大愛一臺,http://mtw.so/69Iaol
+(ytb)三立新聞,http://mtw.so/6hentQ
+(ytb)三立+,http://mtw.so/6oKAyx
+(ytb)華視新聞,http://mtw.so/5GnWxX
+(ytb)寰宇新聞,http://mtw.so/62RXtS
+(ytb)三立新聞,http://mtw.so/5GnWk5
+(ytb)三立+,http://mtw.so/5NPXfK
+台视新闻HD,http://mywlkj.ddns.net:754/tv/tw.php?id=4 
+TVBS新闻台HD,http://mywlkj.ddns.net:754/tv/tw.php?id=5 
+台视新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=6 
+中天新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=7 
+东森LIVE,http://mywlkj.ddns.net:754/tv/tw.php?id=9 
+镜新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=10 
+民视新闻台HD,http://mywlkj.ddns.net:754/tv/tw.php?id=11
+三立新闻+,http://mywlkj.ddns.net:754/tv/tw.php?id=12 
+中天新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=16 
+东森LIVE,http://mywlkj.ddns.net:754/tv/tw.php?id=21 
+镜新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=22 
+TVBS新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=18 
+TVBS news,http://mywlkj.ddns.net:754/tv/tw.php?id=19 
+Now 新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8 
+中天新闻,http://58.87.99.251:8090/HK/ztxw/hls.m3u8 
+TVBS新闻台,http://113.119.39.121:808/hls/105/index.m3u8 
+中天新闻,https://s2.pub/cctv-17 
+东森新闻,https://s2.pub/cctv-18,https://s2.pub/cctv-23 
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 
 民視,rtmp://f13h.mine.nu/sat/tv051 
 台視,rtmp://f13h.mine.nu/sat/tv071 
@@ -24,13 +80,10 @@ TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761 
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731 
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741 
-
-TVBS新闻,rtmp://f13h.mine.nu/sat/tv551
 东森财经新闻,rtmp://f13h.mine.nu/sat/tv571
 ELTA体育1,rtmp://f13h.mine.nu/sat/md051
 ELTA体育2,rtmp://f13h.mine.nu/sat/md041
 TVBS欢乐,rtmp://f13h.mine.nu/sat/tv421
-
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
 中华小家,http://61.221.215.25:8800/hls/40/index.m3u8
@@ -47,89 +100,32 @@ nhk world,http://61.221.215.25:8800/hls/51/index.m3u8
 D-box,http://61.221.215.25:8800/hls/54/index.m3u8
 LISTEN ON SPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
 CGTN,http://livetv.skycf.eu.org/live.m3u8?c=15
-
 央視网,http://livetv.skycf.eu.org/live.m3u8?c=1
 中天亚洲台,http://livetv.skycf.eu.org/live.m3u8?c=3
-台視新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
-台視新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
-台視新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
-TVBS新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
-中視新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
-中天新闻,http://47.76.82.26:29500/live.m3u8?c=3
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-公視,http://livetv.skycf.eu.org/live.m3u8?c=8
-东森新闻,http://livetv.skycf.eu.org/live.m3u8?c=9
-镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
-民視新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
-三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
-华視新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
 东森财经新闻,http://livetv.skycf.eu.org/live.m3u8?c=14
 Da大立電視台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 東森电影,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-
-
-(ytb)TVBSHD,http://mtw.so/6wgNqO
-(ytb)TVBS新闻,http://mtw.so/5FDjU6
-(ytb)中天新闻,http://mtw.so/6wgIqO
-(ytb)寰宇新聞,http://mtw.so/62RXtS
 (ytb)万秀猪王,http://mtw.so/6oKACT
 (ytb)猪哥会社,http://mtw.so/5GnWqd
 (ytb)現代嘉慶君,http://mtw.so/5NPXkK
 (ytb)藍色水玲瓏,http://mtw.so/5GnWr1
-(ytb)东森新闻,http://mtw.so/62RXu2
-(ytb)民視新聞,http://mtw.so/62RXjo
-(ytb)TVBS新聞,http://mtw.so/6wgNyI
-(ytb)寰宇新闻,http://mtw.so/6wgNyS
-(ytb)寰宇新聞台灣台,http://mtw.so/5FDk2a
 (ytb)東森財經,http://mtw.so/5NPXts
-(ytb)華視新聞,http://mtw.so/5GnWxX
-(ytb)台視新聞,http://mtw.so/5NPXtM
-(ytb)台視新聞,http://mtw.so/5VmagT
-(ytb)中視新聞,http://mtw.so/5GnWwZ
-(ytb)公視新聞,http://mtw.so/6oKAvD
-(ytb)鏡新聞mnews,http://mtw.so/69Iao1
-(ytb)TaiwanPlus,http://mtw.so/6hensS
-(ytb)大愛一臺,http://mtw.so/69Iaol
-(ytb)三立新聞,http://mtw.so/6hentQ
-(ytb)三立+,http://mtw.so/6oKAyx
 (ytb)公視,http://mtw.so/6wgNDe
 (ytb)中天亞洲,http://mtw.so/5y771F
-(ytb)三立新聞,http://mtw.so/5GnWk5
-(ytb)三立+,http://mtw.so/5NPXfK
-
 中天亚洲台HD,http://mywlkj.ddns.net:754/tv/tw.php?id=3 
-台视新闻HD,http://mywlkj.ddns.net:754/tv/tw.php?id=4 
-TVBS新闻台HD,http://mywlkj.ddns.net:754/tv/tw.php?id=5 
-台视新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=6 
-中天新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=7 
 公视,http://mywlkj.ddns.net:754/tv/tw.php?id=8 
-东森LIVE,http://mywlkj.ddns.net:754/tv/tw.php?id=9 
-镜新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=10 
-民视新闻台HD,http://mywlkj.ddns.net:754/tv/tw.php?id=11
-三立新闻+,http://mywlkj.ddns.net:754/tv/tw.php?id=12 
 华视新闻资讯,http://mywlkj.ddns.net:754/tv/tw.php?id=13 
 东森财经新闻HD,http://mywlkj.ddns.net:754/tv/tw.php?id=14 
 CGTN,http://mywlkj.ddns.net:754/tv/tw.php?id=15 
-中天新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=16 
 猪哥会社,http://mywlkj.ddns.net:754/tv/tw.php?id=17 
-TVBS新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=18 
-TVBS news,http://mywlkj.ddns.net:754/tv/tw.php?id=19 
 东森财经新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=20 
-东森LIVE,http://mywlkj.ddns.net:754/tv/tw.php?id=21 
-镜新闻,http://mywlkj.ddns.net:754/tv/tw.php?id=22 
 大爱1,http://mywlkj.ddns.net:754/tv/tw.php?id=23 
 中视,http://mywlkj.ddns.net:754/tv/tw.php?id=24 
 Now SPORTS,http://119.23.61.191:8088/HK/nowbg/hls.m3u8
-Now 新闻台,http://58.87.99.251:8090/HK/nowxingying/hls.m3u8 
-中天新闻,http://58.87.99.251:8090/HK/ztxw/hls.m3u8 
 华数,http://mywlkj.ddns.net:754/tv/gdsz.php?id=12 
 华数2,http://mywlkj.ddns.net:754/tv/gdsz.php?id=14 
 华数3,http://mywlkj.ddns.net:754/tv/gdsz.php?id=39
-
 緯來體育,http://cloud.yumixiu768.com/tmp/123.m3u8 
-TVBS新闻台,http://113.119.39.121:808/hls/105/index.m3u8 
-中天新闻,https://s2.pub/cctv-17 
-东森新闻,https://s2.pub/cctv-18,https://s2.pub/cctv-23 
 台視,https://s2.pub/cctv-20 
 民視综合台,https://s2.pub/cctv-19 
 天映频道,https://epg.pw/stream/48616f573347fc1c017d6fc7c61e614d06aa4de174d540ad9b5ee8bf2e3147ba.ctv
@@ -143,32 +139,23 @@ GOODTV旅行,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/live
 台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://epg.pw/stream/2b383d639b6b2eade22f2d085141a38ae48a98f24b8a06f485e23f7211bbf909.m3u8
-大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8 
-民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8 
+大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8 
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8 
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8 
-
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 明珠台,http://120.238.13.198:8000/hls/19/index.m3u8
 翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
-
-
 七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 道真新闻综合,http://live.dzrmtzx.org.cn:90/live/dspd_1M.m3u8
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
-
 TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 中旺电视,http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8 
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
-
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8 
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8#http://zb.xzxwhcb.com:9999/hls/world.m3u8	
@@ -176,7 +163,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-
 中天新闻,http://47.76.82.26:29500/live.m3u8?c=3
 中视台,rtmp://220.130.201.73/sat/tv091
 华视台,rtmp://220.130.201.73/sat/tv111
@@ -190,10 +176,6 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 🔥以下在设置,
 🔥偏好设置,
 🔥开玩转原力,
-民视,P2p://generationnexxxt.com:19806/07d108fdb6f543de8226d05f281225e2
-中视,P2p://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
-华视,P2p://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
-台视,P2p://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
 台视新闻台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
 中天新闻台,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
 三立新闻台,P2p://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
@@ -206,6 +188,10 @@ TVBS新闻台,P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
 非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 寰宇新闻台湾台,P2p://generationnexxxt.com:19806/65b21a80000977cd0ffaa9e72e6218af
 东森新闻台,P2p://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
+民视,P2p://generationnexxxt.com:19806/07d108fdb6f543de8226d05f281225e2
+中视,P2p://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
+华视,P2p://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
+台视,P2p://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
 东森戏剧台,P2p://generationnexxxt.com:19806/8e23c200926a4eaaa00043b39dca9075
 东森综合台,P2p://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 东森电影台,P2p://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
@@ -320,22 +306,35 @@ Lifetime,P2p://generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
 🔥以下在设置,
 🔥偏好设置,
 🔥开玩转原力,
-CGTN,P2p://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
-BBC World News,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
-CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
-Bloomberg TV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+now新闻台,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
+三立新闻台,P2p://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
+东森新闻台,P2p://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
+TVBS新闻台,P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
+年代新闻,P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
+非凡新闻台,P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
+东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
+镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
+now新闻台,P2p://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
+台视新闻台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
+寰宇新闻台湾台,P2p://generationnexxxt.com:19806/65b21a80000977cd0ffaa9e72e6218af
 壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
+年代新闻,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
+中天新闻台,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
 非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 TNN 16,P2p://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
 JKN 18,P2p://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
 三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 Sky News,P2p://generationnexxxt.com:19806/f023e7189a5541b3a288267608b4836a
+CGTN,P2p://generationnexxxt.com:19806/a478d869f49148b09b5ad2ddfa73e36b
+BBC World News,P2p://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
+Bloomberg TV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
 Euronews,P2p://generationnexxxt.com:19806/5b3289dff2154e2c8e166cc3f081f326
 France24,P2p://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
 600TV,P2p://generationnexxxt.com:19806/64c36a1900089f29fd2b824d6b4b65c1
@@ -344,14 +343,9 @@ CBSN,P2p://generationnexxxt.com:19806/697a642115f74499aafe783d34690381
 Fox News,P2p://generationnexxxt.com:19806/e9305a82b75c42f5901c0594e063e999
 NDTV,P2p://generationnexxxt.com:19806/d7fc2d61608d43098f59f35647342c6f
 ABC Australia,P2p://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
-台视新闻台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
-寰宇新闻台湾台,P2p://generationnexxxt.com:19806/65b21a80000977cd0ffaa9e72e6218af
 台视财经台,P2p://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
 CNN,P2p://generationnexxxt.com:19806/cc0fd522ff3f4f37a53773c138dacac1
 now财经台,P2p://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
-东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
-镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
-now新闻台,P2p://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
 Fox News,P2p://generationnexxxt.com:19806/6579228d000333673171faee60517ea8
 BBC World News,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
 CNN USA,P2p://generationnexxxt.com:19806/6579228c000644123171f7d14c4002bd
@@ -364,23 +358,23 @@ The Weather Network,P2p://generationnexxxt.com:19806/65792289000be5843171ed90502
 The Weather Channel,P2p://generationnexxxt.com:19806/65792289000516983171ebcb68d70d48
 香港国际财经台,P2p://generationnexxxt.com:19806/6aa47af091b54d618d1513b1bc23b0b9
 无线财经体育资讯台,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
-年代新闻,P2p://generationnexxxt.com:19806/65ddd162000837a5babd25111eb9560c
-中天新闻台,P2p://generationnexxxt.com:19806/e92e93fd67794e92acdc0d4005f0781a
 无线新闻台,P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 now财经台,P2p://generationnexxxt.com:19806/3a492b41b36f45acab0b75396aadc32d
 Fox News,P2p://generationnexxxt.com:19806/f995b6bf60d241828966663608f77e2b
 三立iNEWS,P2p://generationnexxxt.com:19806/31103be1231e435ab69fdc1492cf08ee
 香港国际财经台,P2p://generationnexxxt.com:19806/f3cb31dde1e040a4a30f89e8f95beea7
 BBC World News,P2p://generationnexxxt.com:19806/323c575f4f694f739cd9f7a945075cef
-now新闻台,P2p://generationnexxxt.com:19806/5c263253cf5241b1a155f0b1b85edea1
-三立新闻台,P2p://generationnexxxt.com:19806/96118abbe8ee48ddaef2c9c1cea1af04
-东森新闻台,P2p://generationnexxxt.com:19806/7bbf7bf4cb8f4a58893f6b5017a9fe05
-TVBS新闻台,P2p://generationnexxxt.com:19806/65fa6dc600095b662a8020fe14c65804
-年代新闻,P2p://generationnexxxt.com:19806/65fa6ea5000ec21a2a83897e03cd44bb
-非凡新闻台,P2p://generationnexxxt.com:19806/65fa6fc4000df93d2a87ea67255a50ce
 
 安博,#genre#
+民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
+TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
+三立inews,https://z88.ubtvfans.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
+環宇臺灣,https://z88.ubtvfans.com/live/rx1/87/7de4c5cddc5dd3402c2a2414a4f90484/index.m3u8
+年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
+壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 華視新聞,https://z88.ubtvfans.com/live/rx1/2424/87d026787fabefb2b7995a7e7b4f67fc/index.m3u8
+三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+東森新聞,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
 民視,https://z88.ubtvfans.com/live/rx2/26/6bcf15c86627de4c6290d927a222ee73/index.m3u8
 臺視,https://z88.ubtvfans.com/live/rx1/27/702bb1344a8d086c65778c5d9a6d070d/index.m3u8
 中視,https://z88.ubtvfans.com/live/rx1/333/4602573c2402ea49024f1cf2298fed4c/index.m3u8
@@ -424,15 +418,7 @@ ELTA娛樂,https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd0
 中視菁采,https://z88.ubtvfans.com/live/rx1/74/d5f759bebfdb3c8726a5d7b788512f63/index.m3u8
 TVBS精采,https://z88.ubtvfans.com/live/rx1/66/eb0b7ce954370f0a298581ca34110539/index.m3u8
 TVN臺灣版,https://z88.ubtvfans.com/live/rx3/2288/6e627b4e8a65eec3773d6f8a33c9648d/index.m3u8
-三立新聞,https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
-東森新聞,https://z88.ubtvfans.com/live/rx5/1025/8849e4836a47ae92c7dbaddbd374badd/index.m3u8
 東森亞洲衛視,https://z88.ubtvfans.com/live/rx1/3/0e6d203e74c6b1e9402855ab8065e43c/index.m3u8
-民視新聞,http://z88.ubtvfans.com/live/rx2/13/f93a0f8a834cc683db383d5c8b12eb18/index.m3u8
-TVBS新聞,https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
-三立inews,https://z88.ubtvfans.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
-環宇臺灣,https://z88.ubtvfans.com/live/rx1/87/7de4c5cddc5dd3402c2a2414a4f90484/index.m3u8
-年代新聞,https://z88.ubtvfans.com/live/rx1/2719/e6c557b196839b722c4e29b89f91f5cd/index.m3u8
-壹新聞,https://z88.ubtvfans.com/live/rx1/2777/56545d12ee6dcbf23fff2852f4891152/index.m3u8
 臺視財經,https://z88.ubtvfans.com/live/rx1/300/b2a1f44e14f47427518936897549976e/index.m3u8
 三立國際,https://z88.ubtvfans.com/live/rx3/2285/6a8add031ee3407648e3eb8731932206/index.m3u8
 東森戲劇,https://z88.ubtvfans.com/live/rx1/2825/6a22401f69113d2529c575454321ddc8/index.m3u8
@@ -509,6 +495,17 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 
 4GTV-LAN,#genre#
+寰宇新聞台,http://192.168.1.1:8000/4gtv/36
+寰宇新聞台灣台,http://192.168.1.1:8000/4gtv/280
+東森新聞台,http://192.168.1.1:8000/4gtv/234
+華視新聞,http://192.168.1.1:8000/4gtv/34
+民視新聞台,http://192.168.1.1:8000/4gtv/31
+三立新聞iNEWS,http://192.168.1.1:8000/4gtv/229
+鏡電視新聞台,http://192.168.1.1:8000/4gtv/268
+TVBS新聞,http://192.168.1.1:8000/4gtv/129
+東森財經新聞台,http://192.168.1.1:8000/4gtv/211
+中視新聞,http://192.168.1.1:8000/4gtv/33
+中天新聞台,http://192.168.1.1:8000/4gtv/30
 民視第一台,http://192.168.1.1:8000/4gtv/1
 民視台灣台,http://192.168.1.1:8000/4gtv/2
 民視,http://192.168.1.1:8000/4gtv/3
@@ -540,18 +537,7 @@ DreamWorks 夢工廠動畫,http://192.168.1.1:8000/4gtv/282
 i-Fun動漫台,http://192.168.1.1:8000/4gtv/60
 MOMO親子台,http://192.168.1.1:8000/4gtv/231
 東森購物一台,http://192.168.1.1:8000/4gtv/173
-鏡電視新聞台,http://192.168.1.1:8000/4gtv/268
-東森新聞台,http://192.168.1.1:8000/4gtv/234
-華視新聞,http://192.168.1.1:8000/4gtv/34
-民視新聞台,http://192.168.1.1:8000/4gtv/31
-三立新聞iNEWS,http://192.168.1.1:8000/4gtv/229
-TVBS新聞,http://192.168.1.1:8000/4gtv/129
-東森財經新聞台,http://192.168.1.1:8000/4gtv/211
-中視新聞,http://192.168.1.1:8000/4gtv/33
-中天新聞台,http://192.168.1.1:8000/4gtv/30
 Bloomberg TV,http://192.168.1.1:8000/4gtv/283
-寰宇新聞台,http://192.168.1.1:8000/4gtv/36
-寰宇新聞台灣台,http://192.168.1.1:8000/4gtv/280
 SBN全球財經台,http://192.168.1.1:8000/4gtv/224
 寰宇財經台,http://192.168.1.1:8000/4gtv/281
 TVBS,http://192.168.1.1:8000/4gtv/183
