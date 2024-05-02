@@ -1,5 +1,4 @@
 新聞YT,#genre#
-東森新聞,https://www.youtube.com/live/2dfAzcDf8Zg?si=FgBaNsDfMqKjAhLm
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 寰宇新闻,https://www.youtube.com/watch?v=w87VGpgd90U
