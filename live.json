@@ -33,6 +33,14 @@
       "playerType": 2
     },
     {
+      "name": "3",
+      "boot": false,
+      "url": "https://tang.serv00.net/zb/99?token=55e41cc1",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 2
+    },
+    {
       "name": "Custom",
       "boot": false,
       "pass": true,
