@@ -35,7 +35,7 @@
     {
       "name": "3",
       "boot": false,
-      "url": "https://tang.hz.cz/zb/99?token=55e41cc1",
+      "url": "https://tang.hz.cz/zb/tv?type=169&token=55e41cc1",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
