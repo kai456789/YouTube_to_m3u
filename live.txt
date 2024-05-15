@@ -493,7 +493,7 @@ CN卡通,https://z88.ubtvfans.com/live/rx1/107/ae0e370ee1bae0bb609295802c3b5214/
 鳳凰電影,https://z88.ubtvfans.com/live/rx1/2814/8eecf538c9b2cfe2100b15b04bfabfc0/index.m3u8
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 
-4GTV-LAN,#genre#
+4GTV-720P-LAN,#genre#
 寰宇新聞台,http://192.168.1.1:8000/4gtv/36
 寰宇新聞台灣台,http://192.168.1.1:8000/4gtv/280
 東森新聞台,http://192.168.1.1:8000/4gtv/234
