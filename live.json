@@ -16,6 +16,14 @@
       "playerType": 2
     },
     {
+      "name": "9+9",
+      "boot": false,
+      "url": "http://oy.oyxx-1.eu.org/hhbb.php",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "playerType": 2
+    },
+    {
       "name": "3",
       "boot": false,
       "url": "https://tang.hz.cz/zb/tv?type=169&token=55e41cc1",
