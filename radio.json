@@ -8,24 +8,9 @@
         "url": "http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8"
       },
       {
-        "name": "BCC中广流行",
-        "type": "radio",
-        "url": "http://n14.rcs.revma.com/aw9uqyxy2tzuv"
-      },
-      {
         "name": "BCC中广音乐",
         "type": "radio",
         "url": "http://n07.rcs.revma.com/ks4vsmg3qtzuv"
-      },
-      {
-        "name": "CityFM台之音",
-        "type": "radio",
-        "url": "http://fm971.cityfm.tw:8080/971.mp3"
-      },
-      {
-        "name": "Kiss FM",
-        "type": "radio",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac"
       },
       {
         "name": "Love FM",
