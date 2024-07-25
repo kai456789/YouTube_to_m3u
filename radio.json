@@ -16,6 +16,16 @@
         "name": "Love FM",
         "type": "radio",
         "url": "https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac"
+      },
+      {
+        "name": "Big B Radio - 韩语流行",
+        "type": "radio",
+        "url": "http://kpop.bigbradio.net/s"
+      },
+      {
+        "name": "Big B Radio - 亚洲流行",
+        "type": "radio",
+        "url": "http://apop.bigbradio.net/s"
       }
     ]
   }
