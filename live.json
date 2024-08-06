@@ -19,9 +19,10 @@
      },
     {
       "name": "直播",
-      "url": "https://yang-1989.eu.org/m3u/Live",
+      "url": "https://tv.iill.top/m3u/Live",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "referer": "https://theav101.com/",
       "playerType": 2
     },
     {
@@ -32,9 +33,10 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
     },
-    {
-      "name": "Tvlist-awesome",
-      "url": "https://raw.githubusercontent.com/imDazui/Tvlist-awesome-m3u-m3u8/master/m3u/%E5%8F%B0%E6%B9%BE%E9%A6%99%E6%B8%AF%E6%BE%B3%E9%97%A82023.m3u",
+      {
+      "name": "9+9",
+      "boot": false,
+      "url": "https://tv.iill.top/m3u/Adult",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
