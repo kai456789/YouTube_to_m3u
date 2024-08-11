@@ -2,10 +2,8 @@
 TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 寰宇新闻,https://www.youtube.com/watch?v=w87VGpgd90U
-三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立新闻台,https://www.youtube.com/watch?v=pF507BLtbqU
 鏡新闻,https://www.youtube.com/live/5n0y6b0Q25o
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-年代新聞,http://220.134.196.147:8517/http/116.50.42.18:8081/hls/67/809/ch27.m3u8 
 中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中天新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
