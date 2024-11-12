@@ -26,9 +26,9 @@
       "playerType": 2
     },
     {
-      "name": "523",
+      "name": "523-php",
       "boot": false,
-      "url": "https://888.iptv543.com/54321.txt",
+      "url": "https://tv543.cc/list.php",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 2
