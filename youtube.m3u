@@ -15,10 +15,10 @@
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 台视新闻台
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746829482/ei/SiweaPPaMu_lzN0Pnt2_yQM/ip/52.160.161.190/id/xL0ch83RAK8.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51474951/txs/51474945%2C51474946%2C51474947%2C51474948%2C51474949%2C51474950%2C51474951%2C51474952/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbHH_F0NqnYjOeC7GWB9-XtfhRUPZG8o1S5zJ41gyQk1hqjh_tXOBVzbMhYTV0hlCNMXvXj7K6R/spc/wk1kZoBosCT4k0uzhoWxO7detAuqmGm8GC86wNQnGkEwY6znNqtHlM3YBYK93Zo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgOF2XRO9vB9n8hx3Y0HM3Nby2eakMb-luPbkqKy7Do-QCIFwZxxlEwdKcWK8xDmaKugMUc7M0RuL2NtWXInMUihuw/file/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 中视新闻
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746829483/ei/SyweaN-3IfuVsfIP1LfDwQg/ip/52.160.161.190/id/TCnaIE_SAtM.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477232/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbh_oS8yvBudxstQRU1K75q52AY8Ezu6Tv_Q0XuFaC4W_2it35T6vuGBIp3oovyKpGmcTn_KtCR/spc/wk1kZkGoM-Jr6zZgRQUdW-Wt1fGg1gqQiETOhuvXtP31jvALcHLV4BkLbVnT3mo/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgCxWu7Qho7Xtq-LKlYZkHCAXBpoW6W6Kh7Bnm7dPkbyQCIQDeIJ_DDSfgy1vmi8PDgiVuCCkdMY7Lr4rctHRNvPY8Jw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 寰宇新闻
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 民视新闻台
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746829486/ei/TiweaN6hH6OyzN0PipSn6AQ/ip/52.160.161.190/id/ylYJSBUgaMA.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AecWEAaeJx8l0nPkYTvvxIdpHvIICqt1YlLDQjZ5gcHiUNj3BNqLeNsXNUy2fFNVNC2u2g9D-yzSz-wO/spc/wk1kZi-VG2iBwxMV8XRiaKqR_g2-FVt2rAjHxh-cZUlwTaQ9rggXSBsLylup-qg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgR64cCTzEe672ZBytlWCVzg5Kyz-J38roBzvEjHkCIJECIQD660_8-K3rCD8lulNewH86QkjHwN4nX0zITlUMTxrruA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 鏡新闻
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746829487/ei/TyweaN_KELn5sfIPxPX1mQE/ip/52.160.161.190/id/5n0y6b0Q25o.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAY1w_c4zYEBWcPKxXlRMzxJGORgZGddf0H1Er5mv0swFQ_1bwC_vh9l9ZQjgg7TaL_NBLpzzNk_/spc/wk1kZi0LAeb0efAVI5eRjlb6xU3hPcajqE1UUvJKG4spkDOCQdVcrqK74RZiJuI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHjUcfCDtrWTGsybgexM9fYRiaN0LoUGne-v7Sz1OgyICIF4_pWPw6nzlkFqG91Jx7srlJ0xUSBcY90-YgHr6ME1x/file/index.m3u8
