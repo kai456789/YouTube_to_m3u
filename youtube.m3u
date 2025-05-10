@@ -15,10 +15,10 @@
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 台视新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746843688/ei/yGMeaJHfH5qEkucPgb640AM/ip/172.200.207.64/id/xL0ch83RAK8.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZDJbhN156N7hP7Vbms4VmLS25iTcxmorHkkgKlCIIgkODs8X4INszD6H4x-4ritSLKaN6hkNCj/spc/wk1kZgtrgQifK4IIO394cECS6F7E0sVuVDr-15Ych0jCGqjD9tJBXrsP-l31HV4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP2JmrwrZdgzVxMY11ydY7y6GpYgb44fHON8TqfuCOzcAiAeB3QifBcFmogCwg2qgfnkVYrUsPDwV8tDuvoSvlZiIA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 中视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746843689/ei/yWMeaOKNGejDkucPlpLF8QM/ip/172.200.207.64/id/TCnaIE_SAtM.8/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51477230/txs/51477230%2C51477231%2C51477232/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAanJfa3kShQxEs895G8aBjpsL7PFBq-cWRvLOzqR1TKPFQ43T85IbJGZ59AeITO7Qzi2o8iWFHH/spc/wk1kZqijrPHJvVb3Ij495sr2ytSWW23-P7nCRFZpEbQ75ArVRHIyXxU73jbqbb0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMRpPJliBuZ5lAkJxMXvHDfINFAzqsD6V5S3ikNy0VQcCIBda8tJNy0Si_-Oqj-5nGscf-e6XP8sDapz8upDExW9k/file/index.m3u8
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 寰宇新闻
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 民视新闻台
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746843692/ei/zGMeaNY-mbeS5w_qlN7xAQ/ip/172.200.207.64/id/ylYJSBUgaMA.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AecWEAbqFIn69fekcvHIFaZILCJ-lG8WpPoujDR8Fn3XHQ9_j28m_k_S2GeAR8S2Xvv1rQAQ1U56CY7b/spc/wk1kZgJ1cbwGkdmYgb_XCRQZIoQgV9yv1bslL-9CfdZNbG2jieVDr9JDXDU_7lQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgHScQl79grVYkzEGFHzW06uRgq1LkYshhkA3iCZCqHHQCIGaScH7A0HWCzJ9voxr-P7miKP-NRipG1Q0uc9RuUjD1/file/index.m3u8
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 鏡新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746843692/ei/zGMeaLK3Mdq0kucPyeLGyQM/ip/172.200.207.64/id/5n0y6b0Q25o.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZUCROKBm_fthVLiPxYTeI44yExKXNBRqGWTg0dJM387Vjhxvk0cdOD1JgbN48Y-f-XLOByfdig/spc/wk1kZoIMGFEUSqLydf8Mu63Jc1LM9GT0byuuHao2SUuCKCVmGa2Ab9BdSWtfC9k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466642/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALHkd0ltRIg6qaz8SDhxNPq_D_IIPSzb8il1W1SfOFAhAiBzs08H5FYMFXNjFRStZFGT8fk6g0F9gNNqb8EcbAF_ng%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
